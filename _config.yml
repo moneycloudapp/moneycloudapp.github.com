@@ -1,0 +1,3 @@
+name: MoneyCloud
+pygments: true
+permalink: /blog/:categories/:year/:month/:day/:title/

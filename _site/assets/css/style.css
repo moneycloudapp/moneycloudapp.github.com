@@ -1,0 +1,186 @@
+body {
+  padding-bottom: 40px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+h1, h2, h3, h4 {
+  font-weight: normal;
+}
+
+.highlight {
+  background-color: rgb(252, 248, 227);
+}
+
+.masthead {
+  padding: 30px 0 30px 0;
+}
+
+.masthead .brand {
+  text-indent: -9999px;
+  display: block;
+  height: 39px;
+  width: 168px;
+  padding: 0;
+  background-image: url("../img/logo.png");
+}
+
+.masthead .nav-pills > li {
+  margin-left: 20px;
+  font-size: 18px;
+}
+
+.masthead .nav-pills > li > a {
+  color: #000;
+}
+
+.masthead .nav-pills > .active > a {
+  color: #fff;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron-container {
+  background-color: #0088cc;
+}
+.jumbotron {
+  margin: 50px 0;
+  text-align: center;
+  color: #fff;
+}
+.jumbotron h1 {
+  font-size: 72px;
+  line-height: 1;
+}
+.jumbotron .btn {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+
+.jumbotron p.screenshot {
+  margin: 50px 0 40px 0;
+}
+
+.marketing-container .row {
+  margin-top: 40px;
+}
+
+.marketing-container h3 {
+  margin-top: 0;
+  line-height: 25px;
+  font-weight: normal;
+}
+
+.marketing-container p {
+  color: #666;
+}
+
+.why-container, .connect-container {
+  background-color: rgb(245, 245, 245);
+  border-top: 1px solid #ebebeb;
+  border-bottom: 1px solid #ebebeb;
+}
+
+.why-container .reason img {
+  max-width: 100%;
+}
+
+.about-container .row, .why-container .row, .news-container .row, .connect-container .row {
+  margin-bottom: 40px;
+}
+
+.news-container .post {
+  border-left: 2px solid rgb(227, 0, 102);
+  padding-left: 20px;
+}
+
+.connect-container ul {
+  margin: 0;
+  height: 69px;
+}
+
+.connect-container li {
+  list-style-type: none;
+  float: left;
+  margin-right: 20px;
+}
+
+.page-header {
+  background-color: rgb(245, 245, 245);
+  border-top: 1px solid #ebebeb;
+  border-bottom: 1px solid #ebebeb;
+}
+
+.page-header {
+  margin: 30px 0 60px 0;
+}
+
+.page-header h1 {
+  font-weight: normal;
+  text-align: center;
+  font-size: 62px;
+  line-height: 1;
+}
+
+.tour h2 {
+  font-size: 50px;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+  border-bottom: 1px solid #ebebeb;
+  color: #666;
+}
+
+#tour img, #post img {
+  display: block;
+  margin: 30px 0 30px 0;
+}
+
+#tour li, #post li {
+  margin-bottom: 5px;
+}
+
+hr {
+  margin: 50px 0 50px 0;
+}
+
+.post-list {
+  margin: 0;
+}
+
+.post-list li {
+  list-style-type: none;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ebebeb;
+}
+
+.post-list .post {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #ebebeb; 
+}
+
+.post .meta {
+  color: #666;
+}
+
+.post .post-title {
+  margin-bottom: 30px;  
+}
+
+.signup-container {
+  background-color: rgb(245, 245, 245);
+  border-top: 1px solid #ebebeb;
+  border-bottom: 1px solid #ebebeb;
+  padding: 20px 0 20px 0;
+  margin: 30px 0 30px 0;
+}
+
+.signup-container strong {
+  font-size: 28px;
+  line-height: 40px;
+  font-weight: normal;
+}
+
+.footer {
+  margin: 40px 0 40px 0;
+}
